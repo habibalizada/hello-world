@@ -11,13 +11,11 @@ How to Use two different GitHub account on one system.
 	$ ssh-add ~/.ssh/id_rsa_afeagle
 	
 4. Create config file in the ssh filder and add the folowing
-	# habibalizada@gmail.com account, - the default config
 	Host github.com
    		HostName github.com
    		User git
    		IdentityFile ~/.ssh/id_rsa
    
-	# nstdnt@gmail.com
 	Host github-afeagle    
    		HostName github.com
    		User git
