@@ -1,7 +1,7 @@
 How to Use two different GitHub account on one system.
 
 1. Create new SSH key for second account
-'''
+'''config
 	$ ssh-keygen -t rsa -C "nstdnt@gmail.com"
 	Enter new name for the key
 	~/.ssh/id_rsa_afeagle
