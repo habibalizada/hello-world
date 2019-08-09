@@ -26,3 +26,7 @@ How to Use two different GitHub account on one system.
 	
 To clone remote repo
 	$ git clone git@github-afeagle:afeagle/testCloning.git
+	
+	
+tutorial link:
+https://www.youtube.com/watch?v=fnSRBRiQIU8
