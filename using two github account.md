@@ -9,7 +9,7 @@ Enter new name for the key
 3. In the terminal add the ssh key  
 `$ ssh-add ~/.ssh/id_rsa_afeagle`
 	
-4. Create config file in the ssh filder and add the folowing  
+4. Create `config` file in the ssh filder and add the folowing  
 ```
 Host github.com  
    HostName github.com  
@@ -23,10 +23,14 @@ Host github-afeagle
    ```
    		
 5. To add local repo to remote repo  
+```
 	$ remote add origin git@github-afeagle:afeagle/hello-world.git  
+```
 	
 To clone remote repo  
-	$ git clone git@github-afeagle:afeagle/testCloning.git  
+```
+	$ git clone git@github-afeagle:afeagle/testCloning.git 
+```
 	
 	
 [tutorial on youtube](https://www.youtube.com/watch?v=fnSRBRiQIU8)
