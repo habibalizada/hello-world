@@ -28,5 +28,4 @@ To clone remote repo
 	$ git clone git@github-afeagle:afeagle/testCloning.git  
 	
 	
-[tutorial link:]
-(https://www.youtube.com/watch?v=fnSRBRiQIU8)
+[tutorial link:](https://www.youtube.com/watch?v=fnSRBRiQIU8)
