@@ -31,6 +31,5 @@ To clone remote repo
 ```
 	$ git clone git@github-afeagle:afeagle/testCloning.git 
 ```
-	
-	
+---	
 [tutorial on youtube](https://www.youtube.com/watch?v=fnSRBRiQIU8)
