@@ -7,9 +7,10 @@ Enter new name for the key
 2. Go to GitHub second account and add the SSH key(id_rsa_afeagle.pub)
 
 3. In the terminal add the ssh key  
-	$ ssh-add ~/.ssh/id_rsa_afeagle  
+`$ ssh-add ~/.ssh/id_rsa_afeagle`
 	
 4. Create config file in the ssh filder and add the folowing  
+`
 	Host github.com  
    		HostName github.com  
    		User git  
@@ -19,6 +20,7 @@ Enter new name for the key
    		HostName github.com  
    		User git  
    		IdentityFile ~/.ssh/id_rsa_afeagle  
+`
    		
 5. To add local repo to remote repo  
 	$ remote add origin git@github-afeagle:afeagle/hello-world.git  
