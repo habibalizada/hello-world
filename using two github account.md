@@ -10,10 +10,6 @@ Enter new name for the key
 `$ ssh-add ~/.ssh/id_rsa_afeagle`
 	
 4. Create config file in the ssh filder and add the folowing  
-`skdjfkdjfkdjfk
-ksdjkfjdkjfkdjf
-kdfjkdjfkdjfkdjf
-dkfkdjfkdjf`
 `Host github.com  
    HostName github.com  
    User git  
@@ -22,8 +18,7 @@ dkfkdjfkdjf`
 Host github-afeagle  
    HostName github.com  
    User git  
-   IdentityFile ~/.ssh/id_rsa_afeagle  
-`
+   IdentityFile ~/.ssh/id_rsa_afeagle`
    		
 5. To add local repo to remote repo  
 	$ remote add origin git@github-afeagle:afeagle/hello-world.git  
